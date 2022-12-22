@@ -9,6 +9,5 @@
   font-family: Inter;
   src: url(../fonts/Inter-Black.woff2);
   scr: url(../fonts/Inter-Black.woff);
-  font-weight: 900;
-  font-style: black;
+  font-weight: bold;
 }
