@@ -20,6 +20,6 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
 
-* {
+/** {
   outline: 1px solid white;
-}
+}*/
