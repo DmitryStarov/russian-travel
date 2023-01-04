@@ -1,28 +1,4 @@
 .photo-grid__image {
   width: 100%;
+  aspect-ratio: 4/3;
 }
-
-/*@media screen and (max-width: 1279px) {
-  .photo-grid__image {
-    max-width: 284px;
-  }
-}
-
-@media screen and (max-width: 1023px) {
-  .photo-grid__image {
-    max-width: 300px;
-  }
-}
-
-@media screen and (max-width: 767px) {
-  .photo-grid__image {
-    max-width: 375px;
-  }
-}
-
-@media screen and (max-width: 425px) {
-  .photo-grid__image {
-    max-width: 288px;
-  }
-}
-*/
