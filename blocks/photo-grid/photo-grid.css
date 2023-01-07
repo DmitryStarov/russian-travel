@@ -5,6 +5,7 @@
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
   grid-gap: 16px;
   box-sizing: border-box;
+  padding-bottom: 92px;
 }
 
 @media screen and (max-width: 1279px) {
