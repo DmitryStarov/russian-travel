@@ -4,6 +4,7 @@
   font-size: 54px;
   line-height: 1.07;
   color: #ffffff;
+  text-rendering: optimizeLegibility;
 }
 
 @media screen and (max-width: 767px) {
