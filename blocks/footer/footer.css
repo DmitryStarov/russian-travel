@@ -5,6 +5,18 @@
   margin: 92px auto 24px;
 }
 
+@media screen and (max-width: 1024px) {
+  .footer {
+    max-width: 90.625%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .footer {
+    max-width: 93.75%;
+  }
+}
+
 @media screen and (max-width: 665px) {
   .footer {
     flex-direction: column;
