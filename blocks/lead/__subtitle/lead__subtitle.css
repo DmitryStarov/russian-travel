@@ -4,7 +4,7 @@
   font-size: 30px;
   color: #FFFFFF;
   text-align: center;
-  line-height: 1.07;
+  line-height: 1.2;
   font-weight: 400;
   max-width: 640px;
 }
@@ -15,19 +15,20 @@
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .lead__subtitle {
     width: 80%;
     font-size: calc(16px + 14 * (100vw - 425px) / 342);
-    line-height: 1.07;
   }
 }
 
 @media screen and (max-width: 425px) {
   .lead__subtitle {
-    margin: 16px auto 0;
+    width: 288px;
+    margin: 16px 16px 0;
     font-size: 16px;
     line-height: 1.25;
   }
 }
+
 

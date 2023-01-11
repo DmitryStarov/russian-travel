@@ -5,12 +5,14 @@
   color: #FFFFFF;
   line-height: 1.055;
   font-weight: 900;
+  text-align: left;
 }
 
 @media screen and (max-width: 768px) {
   .place__title {
     font-size: 42px;
     line-height: 1.1;
+
   }
 }
 

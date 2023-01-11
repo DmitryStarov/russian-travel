@@ -1,14 +1,10 @@
 .place {
-  padding-bottom: 80px;
+  /*padding-bottom: 80px;*/
   display: grid;
   grid-template-columns: 460px 1fr;
   grid-template-rows: 1fr;
   gap: 48px 40px;
   box-sizing: border-box;
-}
-
-.place :last-child {
-  padding-bottom: 0;
 }
 
 @media screen and (max-width: 1024px) {
@@ -30,7 +26,6 @@
   .place {
     grid-template-columns: 1fr;
     gap: 32px;
-    padding-bottom: 50px;
   }
 }
 

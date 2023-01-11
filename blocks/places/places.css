@@ -3,6 +3,7 @@
   flex-direction: column;
   margin: 0 auto;
   max-width: 984px;
+  padding-bottom: 92px;
 }
 
 @media screen and (max-width: 1279px) {
@@ -14,18 +15,21 @@
 @media screen and (max-width: 1024px) {
   .places {
     max-width: 90.625%;
+    gap: 80px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .places {
     max-width: 93.75%;
+    gap: 73px;
   }
 }
 
 @media screen and (max-width: 622px) {
   .places {
     max-width: 100%;
+    gap: 50px;
   }
 }
 

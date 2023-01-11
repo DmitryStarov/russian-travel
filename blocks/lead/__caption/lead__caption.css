@@ -6,6 +6,8 @@
   text-align: left;
   line-height: 14px;
   font-weight: 400;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
 }
 
 @media screen and (max-width: 768px){

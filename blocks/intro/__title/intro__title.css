@@ -3,15 +3,17 @@
   margin: 92px 0 0 0;
   font-size: 54px;
   line-height: 1.07;
+  font-weight: 900;
   color: #ffffff;
   text-rendering: optimizeLegibility;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .intro__title {
     margin: 88px 0 0 0;
     font-size: calc(32px + 22 * (100vw - 320) / 447 );
     line-height: 1.07;
+    padding:0 24px 0 24px;
   }
 }
 
@@ -20,5 +22,6 @@
     margin: 64px 0 0 0;
     font-size: 32px;
     line-height: 1.09;
+    padding:0 16px 0 16px;
   }
 }
