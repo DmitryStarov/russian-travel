@@ -4,7 +4,6 @@
   line-height: 1.63;
   font-weight: 400;
   color: #ffffff;
-  padding-bottom: 26px;
 }
 
 .place :last-child {
@@ -15,14 +14,12 @@
   .place__paragraph  {
     font-size: 16px;
     line-height: 1.63;
-    padding-bottom: 26px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .place__paragraph  {
     line-height: 1.63;
-    padding-bottom: 25px;
   }
 }
 

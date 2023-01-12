@@ -18,7 +18,6 @@
   .place {
     grid-template-columns: 340px 1fr;
     gap: 48px 28px;
-    padding-bottom: 73px;
   }
 }
 
