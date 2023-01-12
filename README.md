@@ -1,5 +1,6 @@
 # Russian-travel. Учебный проект Яндекс.Практикум курс "Web-разработчик".
-[ссылка на GitHub Pages](https://dmitrystarov.github.io/russian-travel/)
+###Ссылка на сайт
+[https://dmitrystarov.github.io/russian-travel/](https://dmitrystarov.github.io/russian-travel/)
 
 ### Описание:
 "Russian-travel" - Лендинг с адаптивной версткой о путешествии по России.
@@ -15,3 +16,6 @@
 * Grid Layout;
 * Адаптивная верстка;
 * Git
+###Планы по доработке
+*Добавить svg анимацию движения по маршруту на картинке в блоке lead
+*Реализовать функцию выбора языка страницы
