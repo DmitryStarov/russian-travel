@@ -1,7 +1,7 @@
 .cover__link {
   display: block;
   text-decoration: none;
-  padding: 245px 312px 195px 312px;
+  padding: 245px 312px 245px 312px;
   background-color: rgba(42, 44, 47, 0.3);
 }
 
@@ -10,7 +10,7 @@
   transition: .3s ease-in-out;
 }
 
-@media screen and (max-width: 1120px) {
+@media screen and (max-width: 1195px) {
   .cover__link {
     padding: 26.35% 19.59%;
   }
@@ -19,24 +19,11 @@
 
 @media screen and (max-width: 1024px) {
   .cover__link {
-    padding: 195px 232px;
-  }
-}
-
-@media screen and (max-width: 1023px) {
-  .cover__link {
-    /*padding: 30.46% 22.65%;*/
     padding: 30.46% 13.54%;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .cover__link {
-    padding: 115px 104px;
-  }
-}
-
-@media screen and (max-width: 767px) {
   .cover__link {
     padding: 23.95% 13.54%;
   }

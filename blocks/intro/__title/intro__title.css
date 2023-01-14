@@ -12,7 +12,6 @@
   .intro__title {
     font-size: calc(32px + 22 * (100vw - 320px) / 447 );
     line-height: 1.07;
-    padding:0 24px 0 24px;
   }
 }
 
@@ -20,6 +19,5 @@
   .intro__title {
     font-size: 32px;
     line-height: 1.09;
-    padding:0 16px 0 16px;
   }
 }

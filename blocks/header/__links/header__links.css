@@ -7,3 +7,10 @@
   column-gap: 18px;
   padding-top: 46px;
 }
+
+
+@media screen and (max-width: 320px) {
+  .header__links {
+    padding-top: 30px;
+  }
+}
