@@ -9,6 +9,7 @@
 
 }
 
+
  @media screen and (max-width: 768px) {
   .cover__title {
     font-size: calc(32px + 40 * (100vw - 320px) / 447);

@@ -12,24 +12,34 @@
 
 @media screen and (max-width: 1195px) {
   .cover__link {
-    padding: 26.35% 19.59%;
+    padding: 245px calc((100vw - 560px) / 2);
   }
 }
 
-
 @media screen and (max-width: 1024px) {
   .cover__link {
-    padding: 30.46% 13.54%;
+    padding: 195px 232px;
+  }
+}
+
+@media screen and (max-width: 970px) {
+  .cover__link {
+    padding: 195px calc((100vw - 560px) / 2);
   }
 }
 
 @media screen and (max-width: 768px) {
   .cover__link {
-    padding: 23.95% 13.54%;
+    padding: 115px 104px;
+  }
+}
+@media screen and (max-width: 580px) {
+  .cover__link {
+    padding: 115px calc((100vw - 560px) / 2);
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .cover__link {
     padding: 33px 16px;
   }
