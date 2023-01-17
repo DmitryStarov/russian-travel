@@ -24,7 +24,7 @@
 
 @media screen and (max-width: 970px) {
   .cover__link {
-    padding: 195px calc((100vw - 560px) / 2);
+    padding: calc((100vw - 560) / 2 * 1.18) calc((100vw - 560px) / 2);
   }
 }
 
@@ -35,7 +35,7 @@
 }
 @media screen and (max-width: 580px) {
   .cover__link {
-    padding: 115px calc((100vw - 560px) / 2);
+    padding: calc((100vw - 560) / 2 * 1.1) calc((100vw - 560px) / 2);
   }
 }
 
