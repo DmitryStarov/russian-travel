@@ -47,6 +47,6 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
-/** {
-  outline: 1px solid white;
-}*/
+* {
+  outline: 1px solid rgb(224, 15, 15);
+}
